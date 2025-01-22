@@ -116,5 +116,6 @@ There a various ways you can contribute to the development of **Python-Terrascri
 Are there any alternatives to Python-Terrascript?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-I know that there are comparable projects to **Python-Terrascript**. I just haven't managed
-to compile a list yet. Please stand-by for updates... 
+- [terranix](https://github.com/terranix/terranix) nix syntax to do what terrascript does
+- [terrakube](https://docs.terrakube.io/) Alternative to Terraform Enterprise, Scalr or Env0
+
